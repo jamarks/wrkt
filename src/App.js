@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        WRKT<br />
+        WRKT <br />
         <small style={{fontSize:'50%'}}>Coming soon</small>
       </header>
     </div>
